@@ -1,24 +1,25 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Jayant Parchuré
 
-description: Eve Adam's Personal Website
+bio: Analytics | Product | Design
+
+description: Jayant's Personal Website
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: assets/images/PP_TGT_small.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://jparchure.github.io/Eve/
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+twitter: jparchure
+linkedin: jayantparchure
+github: jparchure
+email: jayantparchure@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -28,7 +29,7 @@ email: myemail@gmail.com
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: jayp
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
@@ -41,21 +42,17 @@ width: normal
 about: true
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - Data Analysis
+    - Data Visualization
+    - Product Development
+    - Programming  
 
 # do you want to display a projects section? true or false
-projects: true
+projects: false
 
 # add your projects here
 project-list:

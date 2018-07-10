@@ -27,9 +27,17 @@ h3
 h4
 	font-size: 1.6rem
 
-a
-	color: $delta
-	text-decoration: underline
+p
+	a
+		color: $target
+		font-weight: 500
+		text-decoration: none
+		border-bottom: solid 1px transparent
+		transition: border-bottom-color .3s ease-out
+	a:hover
+		border-bottom: solid 1px $target
+	
+	
 
 p
 	line-height: 1.7
