@@ -73,7 +73,8 @@ project-list:
         description: An android app for meditation and mindfulness
         url: https://github.com/Khosbayar/Transcend
 
-
+# Google Analytics
+google_analytics: UA-89668075-1
 # do you want to display the theme attribution? true or false
 footer: true
 
