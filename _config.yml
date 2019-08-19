@@ -9,7 +9,7 @@ description: Jayant's Personal Website
 picture: assets/images/PP_TGT_small.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jparchure.github.io/Eve/
+url: https://jparchure.github.io/
 
 # do you want to display social media links? true or false
 social-media: true
@@ -75,7 +75,6 @@ project-list:
 
 # Google Analytics
 google_analytics: UA-89668075-1
-
 # do you want to display the theme attribution? true or false
 footer: true
 
